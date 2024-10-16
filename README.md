@@ -1,7 +1,7 @@
-# Lucas Baruja
+# Lucas Baruja's Portfolio
 
 ## About Me
-Hello! I’m Lucas Baruja, a passionate student of **Engineering in Information Technology and Communications (TIE)**. I specialize in software engineering and enjoy working on projects that involve **frontend, backend development**, and **Android applications** using **Java**. I’m currently building my skills and experience to make an impact in the tech world.
+Hello! I’m Lucas Baruja, a student of **Engineering in Information Technology and Communications (TIE)**. I have a strong interest in specializing in **software engineering**, **artificial intelligence**, and **data analytics**, with a focus on making informed **business decisions** based on that analysis. I’m currently building my skills and experience to make an impact in the tech world.
 
 ## Contact
 - **LinkedIn**: [Lucas Baruja](https://www.linkedin.com/in/lucas-baruja-581064332/)
@@ -35,6 +35,4 @@ Hello! I’m Lucas Baruja, a passionate student of **Engineering in Information 
 - **Business Incubator Leadership**: Successfully managed a business incubation project.
 
 ## Future Goals
-I’m currently focused on further developing my Android development skills and gaining more experience in full-stack development. My long-term goal is to build innovative solutions that blend **software engineering** and **AI technologies**.
-
-Thank you for visiting my portfolio! Feel free to reach out if you’re interested in my work or have any exciting opportunities.
+I’m currently focused on further developing my Android development skills and gaining more experience in full-stack development. I aspire to specialize in software engineering, artificial intelligence, and data-driven business decision-making.
