@@ -1,4 +1,4 @@
-# Lucas Baruja's Portfolio
+# Lucas Baruja
 
 ## About Me
 Hello! I’m Lucas Baruja, a passionate student of **Engineering in Information Technology and Communications (TIE)**. I specialize in software engineering and enjoy working on projects that involve **frontend, backend development**, and **Android applications** using **Java**. I’m currently building my skills and experience to make an impact in the tech world.
