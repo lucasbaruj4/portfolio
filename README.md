@@ -1,3 +1,5 @@
+![Profile Picture](https://raw.githubusercontent.com/lucasbaruj4/portfolio/main/images/lucas%20cara.jpg)
+
 ## About Me
 Hello! I’m Lucas Baruja, a student of **Engineering in Information Technology and Communications (TIE)**. I have a strong interest in specializing in **software engineering**, **artificial intelligence**, and **data analytics**, with a focus on making informed **business decisions** based on that analysis. I’m currently building my skills and experience to make an impact in the tech world.
 
